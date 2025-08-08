@@ -89,7 +89,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/0RDYH1vB/MEF-AAP-027-BAP-2025-08-06-20-07-40.png',
+            image: 'https://i.ibb.co/FbFjTTFQ/MEF-AAP-027-BAP-2025-08-08-19-52-52.png',
             description: '',
             location: {
                  center: [29.051,41.164],
@@ -119,7 +119,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/bRGm4fQw/MEF-AAP-027-BAP-2025-08-06-20-08-04.png',
+            image: 'https://i.ibb.co/Tx1MfSZB/MEF-AAP-027-BAP-2025-08-08-20-37-13.png',
             description: '',
             location: {
                  center: [29.051,41.164],
@@ -150,7 +150,7 @@ var config = {
             alignment: 'centered',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/jPV2SCpw/MEF-AAP-027-BAP-2025-08-06-20-09-18.png',
+            image: 'https://i.ibb.co/fdPMYJR8/MEF-AAP-027-BAP-2025-08-08-20-46-19.png',
             description: '',
             location: {
                  center: [29.051,41.164],
