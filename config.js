@@ -98,7 +98,7 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [
                 // {
@@ -116,10 +116,10 @@ var config = {
         },
           {
             id: '4',
-            alignment: 'centered',
+            alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/Tx1MfSZB/MEF-AAP-027-BAP-2025-08-08-20-37-13.png',
+            image: 'https://i.ibb.co/mCZQLdNm/MEF-AAP-027-BAP-2025-08-09-11-10-11.png',
             description: '',
             location: {
                  center: [29.051,41.164],
@@ -128,7 +128,7 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [
                 // {
@@ -147,10 +147,10 @@ var config = {
         }, 
         {
             id: '5',
-            alignment: 'centered',
+            alignment: 'left',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/fdPMYJR8/MEF-AAP-027-BAP-2025-08-08-20-46-19.png',
+            image: 'https://i.ibb.co/Xx7Zjbz3/MEF-AAP-027-BAP-2025-08-09-11-08-36.png',
             description: '',
             location: {
                  center: [29.051,41.164],
@@ -159,7 +159,7 @@ var config = {
                 bearing: 0
             },
             mapAnimation: 'flyTo',
-            rotateAnimation: true,
+            rotateAnimation: false,
             callback: '',
             onChapterEnter: [
                 // {
